@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+.nytimes {
+	border: 1px solid#0099FF;
+	cursor: pointer;
+
+}
